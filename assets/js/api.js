@@ -8,8 +8,8 @@
 
 
 window.ACCESS_POINT = "https://api.edamam.com/api/recipes/v2";
-const /** {String} */ APP_ID = "f02d176c";
-const /** {String} */ API_KEY = "305592e91115dd8fa44389d87a48217b";
+const /** {String} */ APP_ID = "";
+const /** {String} */ API_KEY = "";
 const /** {String} */ TYPE = "public";
 
 /**
